@@ -3,12 +3,13 @@
 ### 谷杰 10222140408
 ### 第六章
 ### T1
+输出结果在movie.csv文件中\
 ![png](https://raw.githubusercontent.com/GUJIEJASON/ITDS/Week5/Week5/1.png)
 ### T2、T3
 ![png](https://raw.githubusercontent.com/GUJIEJASON/ITDS/Week5/Week5/2.png)
 ![png](https://raw.githubusercontent.com/GUJIEJASON/ITDS/Week5/Week5/3.png)
 ### T4、T5
-见代码
+见代码，输出文件在dangdang.csv文件中，代码在mySpider的压缩包中。
 ### 第七章
 ### T3
 ![png](https://raw.githubusercontent.com/GUJIEJASON/ITDS/Week5/Week5/4.png)
