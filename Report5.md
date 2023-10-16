@@ -6,6 +6,8 @@
 输出结果在movie_data.csv文件中\
 ![png](https://raw.githubusercontent.com/GUJIEJASON/ITDS/Week5/Week5/1.png)
 ### T2、T3
+scrapy框架的优点：拥有强大的爬取功能、可扩展性、支持异步支持、能进行数据处理和导出、有内置调试工具。\
+缺点：学习曲线陡峭、配置复杂性、不适用于所有场景、非Python环境下有限支持。\
 ![png](https://raw.githubusercontent.com/GUJIEJASON/ITDS/Week5/Week5/2.png)
 ![png](https://raw.githubusercontent.com/GUJIEJASON/ITDS/Week5/Week5/3.png)
 ### T4、T5
